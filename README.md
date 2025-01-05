@@ -5,3 +5,4 @@
 # Formatting of the document
 # Adding use case F1
 # Adding diagrams i.e. class, component etc
+# Created database schema
