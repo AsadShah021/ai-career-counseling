@@ -7,3 +7,4 @@
 # Adding diagrams i.e. class, component etc
 # Created database schema
 # Adding software planning and timeline part
+# SRS completed
